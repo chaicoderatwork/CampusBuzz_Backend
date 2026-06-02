@@ -1,2 +1,2 @@
-# CampusBuzz_Backend
+# UniPulse_Backend
  BACKEND FOR CAMPUSBUZZ APP
